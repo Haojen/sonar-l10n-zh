@@ -1,4 +1,4 @@
-The Chinese translation pack for SonarQube
+The Chinese translation pack for SonarQube 1
 =======
 
 Author: Xu Huisheng <xyz20003@gmail.com>
