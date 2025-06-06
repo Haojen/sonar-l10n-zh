@@ -13,8 +13,8 @@
   <description>Language Pack for Chinese</description>
 
   <organization>
-    <name>Mossle</name>
-    <url>http://www.mossle.com</url>
+    <name>Haojen</name>
+    <url>http://www.haojen.com</url>
   </organization>
 
   <licenses>
@@ -26,15 +26,15 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/xuhuisheng/sonar-l10n-zh.git</connection>
-    <developerConnection>scm:git:https://github.com/xuhuisheng/sonar-l10n-zh.git</developerConnection>
-    <url>https://github.com/xuhuisheng/sonar-l10n-zh</url>
+    <connection>scm:git:https://github.com/haojen/sonar-l10n-zh.git</connection>
+    <developerConnection>scm:git:https://github.com/haojen/sonar-l10n-zh.git</developerConnection>
+    <url>https://github.com/haojen/sonar-l10n-zh</url>
     <tag>sonar-l10n-zh-plugin-25.1</tag>
   </scm>
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/xuhuisheng/sonar-l10n-zh/issues</url>
+    <url>https://github.com/haojen/sonar-l10n-zh/issues</url>
   </issueManagement>
 
   <properties>
@@ -45,8 +45,8 @@
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <sonar.projectKey>xuhuisheng_sonar-l10n-zh</sonar.projectKey>
-    <sonar.organization>xuhuisheng</sonar.organization>
+    <sonar.projectKey>haojen_sonar-l10n-zh</sonar.projectKey>
+    <sonar.organization>haojen</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
@@ -87,10 +87,10 @@
 
   <developers>
     <developer>
-      <id>xuhuisheng</id>
-      <name>Xu Huisheng</name>
-      <organization>Mossle</organization>
-      <organizationUrl>http://www.mossle.com</organizationUrl>
+      <id>haojen</id>
+      <name>Haojen</name>
+      <organization>Haojen</organization>
+      <organizationUrl>haojen.github.io</organizationUrl>
     </developer>
   </developers>
 
