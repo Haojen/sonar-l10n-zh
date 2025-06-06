@@ -45,8 +45,8 @@
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <sonar.projectKey>haojen_sonar-l10n-zh</sonar.projectKey>
-    <sonar.organization>haojen</sonar.organization>
+    <sonar.projectKey>Haojen_sonar-l10n-zh</sonar.projectKey>
+    <sonar.organization>Haojen</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
